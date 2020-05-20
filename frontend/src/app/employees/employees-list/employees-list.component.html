@@ -1,0 +1,27 @@
+<mat-accordion>
+
+  <mat-expansion-panel *ngFor="let employee of employees; let i = index" expanded="{{ i == 0}}">
+    <mat-expansion-panel-header>
+      {{ employee.name }}
+    </mat-expansion-panel-header>
+
+    <mat-accordion>
+      <mat-expansion-panel *ngFor="let task of employee.toDoTasks">
+        <mat-expansion-panel-header>
+          {{ task.title }}
+        </mat-expansion-panel-header>
+        <label>Description</label>
+        <p>{{task.description }}</p>
+        <label>Priority Level</label>
+        <p>{{task.priorityLevel }}</p>
+        <label>State</label>
+        <p>{{task.state }}</p>
+        <label>Estimate</label>
+        <p>{{task.estimate }}</p>
+
+      </mat-expansion-panel>
+    </mat-accordion>
+
+  </mat-expansion-panel>
+
+</mat-accordion>
