@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeTodoList.WebApi", "EmployeeTodoList.WebApi\EmployeeTodoList.WebApi.csproj", "{45DF113B-2CB4-4023-A548-C0D3630F3B5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeTodoList.Core", "EmployeeTodoList.Core\EmployeeTodoList.Core.csproj", "{C3AA332F-BF6F-423D-A6AC-A8E16FCBFEDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeTodoList.Data", "EmployeeTodoList.Data\EmployeeTodoList.Data.csproj", "{9F3C7D03-A28D-4BC8-A615-2D6BFC32C309}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45DF113B-2CB4-4023-A548-C0D3630F3B5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45DF113B-2CB4-4023-A548-C0D3630F3B5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45DF113B-2CB4-4023-A548-C0D3630F3B5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45DF113B-2CB4-4023-A548-C0D3630F3B5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3AA332F-BF6F-423D-A6AC-A8E16FCBFEDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3AA332F-BF6F-423D-A6AC-A8E16FCBFEDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3AA332F-BF6F-423D-A6AC-A8E16FCBFEDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3AA332F-BF6F-423D-A6AC-A8E16FCBFEDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F3C7D03-A28D-4BC8-A615-2D6BFC32C309}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F3C7D03-A28D-4BC8-A615-2D6BFC32C309}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F3C7D03-A28D-4BC8-A615-2D6BFC32C309}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F3C7D03-A28D-4BC8-A615-2D6BFC32C309}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAD57090-2B8D-4C78-88FD-1E0D83580D18}
+	EndGlobalSection
+EndGlobal
