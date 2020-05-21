@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\skaly\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\skaly\\.nuget\\packages"
+    ]
+  }
+}

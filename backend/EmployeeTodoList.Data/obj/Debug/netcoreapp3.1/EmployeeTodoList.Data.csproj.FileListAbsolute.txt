@@ -1,0 +1,10 @@
+D:\Sources\EmployeeTodoList\EmployeeTodoList.Data\bin\Debug\netcoreapp3.1\EmployeeTodoList.Data.deps.json
+D:\Sources\EmployeeTodoList\EmployeeTodoList.Data\bin\Debug\netcoreapp3.1\EmployeeTodoList.Data.dll
+D:\Sources\EmployeeTodoList\EmployeeTodoList.Data\obj\Debug\netcoreapp3.1\EmployeeTodoList.Data.csprojAssemblyReference.cache
+D:\Sources\EmployeeTodoList\EmployeeTodoList.Data\obj\Debug\netcoreapp3.1\EmployeeTodoList.Data.AssemblyInfoInputs.cache
+D:\Sources\EmployeeTodoList\EmployeeTodoList.Data\obj\Debug\netcoreapp3.1\EmployeeTodoList.Data.AssemblyInfo.cs
+D:\Sources\EmployeeTodoList\EmployeeTodoList.Data\bin\Debug\netcoreapp3.1\EmployeeTodoList.Data.runtimeconfig.json
+D:\Sources\EmployeeTodoList\EmployeeTodoList.Data\bin\Debug\netcoreapp3.1\EmployeeTodoList.Data.runtimeconfig.dev.json
+D:\Sources\EmployeeTodoList\EmployeeTodoList.Data\bin\Debug\netcoreapp3.1\EmployeeTodoList.Data.pdb
+D:\Sources\EmployeeTodoList\EmployeeTodoList.Data\obj\Debug\netcoreapp3.1\EmployeeTodoList.Data.dll
+D:\Sources\EmployeeTodoList\EmployeeTodoList.Data\obj\Debug\netcoreapp3.1\EmployeeTodoList.Data.pdb

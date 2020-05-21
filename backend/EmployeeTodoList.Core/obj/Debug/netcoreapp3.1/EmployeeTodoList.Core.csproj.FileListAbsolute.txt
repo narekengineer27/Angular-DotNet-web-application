@@ -1,0 +1,8 @@
+D:\Sources\EmployeeTodoList\EmployeeTodoList.Core\bin\Debug\netcoreapp3.1\EmployeeTodoList.Core.deps.json
+D:\Sources\EmployeeTodoList\EmployeeTodoList.Core\bin\Debug\netcoreapp3.1\EmployeeTodoList.Core.dll
+D:\Sources\EmployeeTodoList\EmployeeTodoList.Core\bin\Debug\netcoreapp3.1\EmployeeTodoList.Core.pdb
+D:\Sources\EmployeeTodoList\EmployeeTodoList.Core\obj\Debug\netcoreapp3.1\EmployeeTodoList.Core.csprojAssemblyReference.cache
+D:\Sources\EmployeeTodoList\EmployeeTodoList.Core\obj\Debug\netcoreapp3.1\EmployeeTodoList.Core.AssemblyInfoInputs.cache
+D:\Sources\EmployeeTodoList\EmployeeTodoList.Core\obj\Debug\netcoreapp3.1\EmployeeTodoList.Core.AssemblyInfo.cs
+D:\Sources\EmployeeTodoList\EmployeeTodoList.Core\obj\Debug\netcoreapp3.1\EmployeeTodoList.Core.dll
+D:\Sources\EmployeeTodoList\EmployeeTodoList.Core\obj\Debug\netcoreapp3.1\EmployeeTodoList.Core.pdb
